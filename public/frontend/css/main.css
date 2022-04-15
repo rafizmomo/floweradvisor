@@ -1,0 +1,12 @@
+body, h1, h2, h3, h4, h5, h6, p, span {
+  font-family: 'Lato', sans-serif;
+}
+
+.fill {
+  height: 100vh;
+}
+
+.logo-sign {
+  max-height: 100px;
+}
+/*# sourceMappingURL=main.css.map */
